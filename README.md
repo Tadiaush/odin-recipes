@@ -4,3 +4,6 @@ My goal of this task is to have a simple HTML page with a one recipe. It will be
 Ideally this could turn into a multiple languages recipes. 
 
 For now, the HTML basic - 20220811
+
+Continue my work on the Odin Project training course. 20221212.
+
